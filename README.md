@@ -1,4 +1,4 @@
-GROUP : NOT YET
+GROUP : DailySip
 - <1 : NGUYỄN TUẤN MINH>
 - <2 : NGUYỄN MINH HỮU>
 - <3 : TRƯƠNG VIỆT KHANG>
